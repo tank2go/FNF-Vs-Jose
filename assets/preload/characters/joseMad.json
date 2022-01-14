@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jose idle"
+		},
+		{
+			"offsets": [
+				-42,
+				-13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jose left"
+		},
+		{
+			"offsets": [
+				-63,
+				-13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jose right"
+		},
+		{
+			"offsets": [
+				-84,
+				-13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jose down"
+		},
+		{
+			"offsets": [
+				-81,
+				-13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jose up"
+		},
+		{
+			"offsets": [
+				6,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "mf",
+			"loop": false,
+			"name": "jose middle finger"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joseMad",
+	"position": [
+		30,
+		150
+	],
+	"healthicon": "jose-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

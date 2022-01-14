@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, nice day today ain't it bf?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Sure is! But i feel like rap battling someone today!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Excuse me sir"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jose2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't wanna bother you or anything but i was wondering if you wanna rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jose",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jose",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have actually been practicing my singing voice for a while now!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Let's get to it then!"
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jose idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-42,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jose left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-63,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jose right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-84,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jose down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-81,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jose up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "thumbs up",
+			"loop": false,
+			"name": "jose thumbs up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jose",
+	"position": [
+		30,
+		150
+	],
+	"healthicon": "jose",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-70,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Lite",
+			"jose",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Shame",
+			"jose-mad",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Rage Quit",
+			"joseGod",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "jose",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Red God",
+	"weekName": "The Red God",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

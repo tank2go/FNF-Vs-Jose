@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jose idle"
+		},
+		{
+			"offsets": [
+				-28,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jose left"
+		},
+		{
+			"offsets": [
+				-25,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jose right"
+		},
+		{
+			"offsets": [
+				-22,
+				-16
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jose down"
+		},
+		{
+			"offsets": [
+				-16,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jose up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JoseGod",
+	"position": [
+		30,
+		-150
+	],
+	"healthicon": "joseGod",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		370
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

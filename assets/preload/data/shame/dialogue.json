@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Not bad man!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jose",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Btw i don't wanna be mean or anything but u might wanna practice your singing voice."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jose2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh,uhhhh............"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Are u ok?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jose2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "FUCKYOU!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "wut"
+		}
+	]
+}

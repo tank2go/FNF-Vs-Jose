@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		200,
+		90
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "jj",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jj",
+			"anim": "jj",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "jose3"
+}

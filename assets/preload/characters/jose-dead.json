@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lost jose idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				228,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lost jose left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				9,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lost jose right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lost jose down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				14,
+				71
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lost jose up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "jumpscare",
+			"fps": 24,
+			"name": "lost jose jumpscare",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LostJose",
+	"position": [
+		370,
+		10
+	],
+	"healthicon": "jose-dead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-270,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

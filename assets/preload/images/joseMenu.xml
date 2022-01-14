@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joseMenu.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jose title instance 10000" x="0" y="0" width="444" height="481"/>
+	<SubTexture name="jose title instance 10001" x="444" y="0" width="438" height="481" frameX="-1" frameY="0" frameWidth="444" frameHeight="481"/>
+	<SubTexture name="jose title instance 10002" x="882" y="0" width="433" height="481" frameX="-2" frameY="0" frameWidth="444" frameHeight="481"/>
+	<SubTexture name="jose title instance 10003" x="1315" y="0" width="427" height="481" frameX="-3" frameY="0" frameWidth="444" frameHeight="481"/>
+	<SubTexture name="jose title instance 10004" x="0" y="481" width="411" height="481" frameX="-6" frameY="0" frameWidth="444" frameHeight="481"/>
+	<SubTexture name="jose title instance 10005" x="411" y="481" width="363" height="481" frameX="-37" frameY="0" frameWidth="444" frameHeight="481"/>
+	<SubTexture name="jose title instance 10006" x="774" y="481" width="335" height="481" frameX="-52" frameY="0" frameWidth="444" frameHeight="481"/>
+	<SubTexture name="jose title instance 10007" x="1109" y="481" width="307" height="481" frameX="-67" frameY="0" frameWidth="444" frameHeight="481"/>
+	<SubTexture name="jose title instance 10008" x="1109" y="481" width="307" height="481" frameX="-67" frameY="0" frameWidth="444" frameHeight="481"/>
+	<SubTexture name="jose title instance 10009" x="1109" y="481" width="307" height="481" frameX="-67" frameY="0" frameWidth="444" frameHeight="481"/>
+</TextureAtlas>
